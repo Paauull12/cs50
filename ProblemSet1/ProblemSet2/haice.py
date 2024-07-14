@@ -1,1 +1,0 @@
-print("cam taran tu asa")

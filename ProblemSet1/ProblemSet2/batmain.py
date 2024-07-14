@@ -1,1 +1,0 @@
-print("batman e cool")
